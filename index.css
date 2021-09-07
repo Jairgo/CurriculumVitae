@@ -1,0 +1,60 @@
+.bg-f1{
+    background-color: #f1f1f1;
+}
+
+p.h5{
+    font-weight: bold;
+    color: #757575;
+}
+
+p, h2{
+    color: #757575;
+}
+
+i{
+    color: black;
+}
+
+.bg-blue, .badge-blue{
+    background-color: #3f51b5;
+    color: white;
+}
+
+.bg-white{
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
+}
+
+.footer {
+    padding: 2.5rem 0;
+    color: white;
+    text-align: center;
+    background-color: #3f51b5;
+    border-top: .05rem solid #e5e5e5;
+}
+
+#p-footer{
+    color: white!important;
+}
+.fa{
+    color: white;
+}
+.footer p:last-child {
+        margin-bottom: 0;
+}
+
+#link-white{
+    font-weight: bolder;
+    text-decoration: underline;
+    color: white;
+}
+
+#link-blue{
+    font-weight: bolder;
+    text-decoration: underline;
+    color: #3f51b5;
+}
+
+.navbar-light{
+    color: black;
+    font-weight: bold;
+}
